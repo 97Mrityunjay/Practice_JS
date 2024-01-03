@@ -1,0 +1,16 @@
+
+.description{
+    background: rgba(66,66,66);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 40px;
+    min-height: 100vh;
+}
+.container{
+    text-align: center;
+}
+.container>img{
+    width: 150px;
+}
